@@ -20,9 +20,3 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите 2-ое число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(Print(m, n));
-
-
-
-
-
-
